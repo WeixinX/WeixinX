@@ -10,10 +10,12 @@
     <a href="https://github.com/WeixinX">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeixinX">
     </a>
+    <!--
     <br>
     <br>
     <a href="https://github.com/WeixinX">
       <img src="https://github-readme-stats.vercel.app/api?username=WeixinX&show_icons=true" />
     </a>
+    <-->
 </div>
 
